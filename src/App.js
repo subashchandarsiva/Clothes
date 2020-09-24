@@ -3,7 +3,8 @@ import "./App.css";
 import { Switch, Route } from "react-router-dom";
 import HomePage from "./pages/homepage/homepage.component";
 
-const Hats = () => {
+const Hats = (props) => {
+  console.log(props);
   return (
     <div>
       <h1>Hi Straw Hats</h1>
