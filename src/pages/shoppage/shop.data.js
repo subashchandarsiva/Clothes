@@ -6,7 +6,7 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: "Brown Brim",
+        name: "Brown Browner",
         // imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
         imageUrl: "/images/shop-img/hats/brown-brim.png",
         price: 25,
